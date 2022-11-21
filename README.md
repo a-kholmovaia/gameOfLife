@@ -9,4 +9,4 @@ Evolution is controlled by two rules:
     - A dead cell is reborn if it has exactly three live neighbors.
  
 One interacts with the Game of Life by creating an initial configuration and observing how it evolves. 
-![Example](https://www.dropbox.com/s/h8imml6gemqkeiy/goL.gif?dl=0)
+![Example](https://www.dropbox.com/s/h8imml6gemqkeiy/goL.gif?dl=1)
