@@ -8,7 +8,6 @@ import (
 
 type Universe struct {
 	currentGen [][]string
-	newGen     [][]string
 }
 
 func initUniverse(n int) ([][]string, int) {
